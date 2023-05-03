@@ -4,7 +4,9 @@ This example demonstrates two different approaches to creating a scene instance 
 
 The `Icon` scene will be instantiated after each mouse click. Here is the application window after 21 clicks showing the total number of icons:
 
-![The application window](images/Instantiation.png "The application window after 21 clicks")
+<p align="center">
+<img src="images/Instantiation.png" alt="The application window after 21 clicks" width="520"/>
+</p>
 
 ## Tutorial
 
