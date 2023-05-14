@@ -3,9 +3,9 @@
 This example demonstrates two different approaches to creating a scene instance from a script in **Godot 4**. Here we create two simple independent scenes:
 
 - Scene `Main` with a simple label
-- Scene `Icon` with a small image (Godot logo).
+- Scene `Icon` with a small image (Godot logo)
 
-Then we programmatically create multiple instances of the `Icon` scene in `Main` using a simple script.
+Then we programmatically create multiple instances of the `Icon` scene in `Main` using a simple script (see [main.gd](https://github.com/ikorotkin/instantiation/blob/master/main.gd)).
 
 This process is usually referred to as *instantiation*. It involves allocating memory for the object (in this case, a copy of the `Icon` scene with an image) and initializing or updating its properties (such as position on the screen).
 

@@ -2,9 +2,11 @@ extends Node
 
 
 # Member variables
+
 @export var icon: Resource # Icon scene
 # Alternatively:
 # var icon: Resource = preload("res://icon.tscn")
+
 var counter: int = 0 # Counts mouse button clicks
 
 
